@@ -311,7 +311,7 @@ header {
             rgba(0, 0, 0, 0.4)
             /* End with same color */
         ),
-        url('website-image/group-studies.jpg');
+        url(group-studies.jpg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -1053,7 +1053,7 @@ p {
             rgba(0, 0, 0, 0.4)
             /* End with same color */
         ),
-        url('website-image/group-studies.jpg');
+        url('group-studies.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
