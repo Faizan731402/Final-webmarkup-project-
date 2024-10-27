@@ -11,6 +11,13 @@ p {
 
 
 @media screen and (min-width: 768px) {
+
+
+    body {
+        font-size: 1em;
+
+    }
+
     nav {
         padding: 20px 40px;
     }
@@ -85,6 +92,11 @@ p {
 
 
 @media screen and (max-width: 768px) {
+
+    body {
+        font-size: 0.5em;
+
+    }
 
 
     nav {
@@ -165,8 +177,9 @@ p {
 
 
     footer {
-        padding: 30px 15px;
         margin-top: 80px;
+        padding: 0.85em;
+
     }
 
     .checkbox-group {
